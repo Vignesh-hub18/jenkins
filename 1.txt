@@ -1,1 +1,1 @@
-echo "Wrings"
+echo "This is new testing"
