@@ -1,1 +1,1 @@
-echo "This is new testing" >/tmp/jenkins.txt
+echo "This ok , is new testing" >/tmp/jenkins.txt
